@@ -70,18 +70,18 @@ Sum of all numbers from 10 to 15 is: 75
 ## 🧠 Python Concepts Used
 
 | Concept | Purpose |
-|---|---|
-| `input()` | Takes input from the user |
-| `print()` | Displays output |
-| `if-elif-else` | Handles menu choices and conditions |
-| `while` loop | Keeps the menu running |
-| `for` loop | Processes rows and numbers |
+| --- | --- |
+| input() | Takes input from the user |
+| print() | Displays output |
+| if-elif-else | Handles menu choices and conditions |
+| while loop | Keeps the menu running |
+| for loop | Processes rows and numbers |
 | Nested loops | Creates the star pattern |
-| `range()` | Generates a sequence of numbers |
-| `%` operator | Checks Odd/Even numbers |
-| `break` | Exits the loop |
-| `continue` | Skips the current iteration |
-| `pass` | Performs no operation when required |
+| range() | Generates a sequence of numbers |
+| % operator | Checks Odd/Even numbers |
+| break | Exits the loop |
+| continue | Skips the current iteration |
+| pass | Performs no operation when required |
 | Variables | Stores user input and calculated values |
 
 ---
